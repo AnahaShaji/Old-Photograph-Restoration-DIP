@@ -71,7 +71,6 @@ Old-Photograph-Restoration-DIP/
 ├── DIP_Old_Photograph_Restoration_Using_Image_Enhancement_and_Blur_Reduction.ipynb
 ├── README.md
 ├── requirements.txt
-├── images/
 ├── screenshots/
 └── report/
 ```
